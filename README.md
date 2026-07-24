@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on<br>Building end-to-end Data Science projects — from EDA to model deployment, using Python, Pandas & Scikit-learn (currently fighting with a churn prediction model that has commitment issues) 📊<br><br>I'm looking to collaborate on<br>Data Science projects, ML pipelines, or anything that involves turning messy raw data into insights that actually make sense 🔍<br><br>I'm looking for help with<br>Advanced statistics, feature engineering tricks & deploying ML models without breaking everything at 2 AM 🛠️<br><br>I'm currently learning<br>Python · Machine Learning · Deep Learning · SQL (Advanced) · PyTorch · HuggingFace Transformers · Flask — basically stacking skills like a data scientist RPG character 🎮<br><br>Ask me about<br>Data Science fundamentals, Python, SQL, EDA, or how to start building real-world DS projects as a student — I promise better explanations than 90% of Medium articles 😄<br><br>Fun fact<br>On a mission: Master Data Science ➔ Build Intelligent Models ➔ Create Products that actually solve problems.<br>Currently at Checkpoint 1 — grinding till the finish line.<br><br>
+I'm currently working on<br>Building end-to-end Data Science projects — from EDA to model deployment, using Python, Pandas & Scikit-learn (currently fighting with a churn prediction model that has commitment issues) <br><br>I'm looking to collaborate on<br>Data Science projects, ML pipelines, or anything that involves turning messy raw data into insights that actually make sense <br><br>I'm looking for help with<br>Advanced statistics, feature engineering tricks & deploying ML models without breaking everything at 2 AM 🛠️<br><br>I'm currently learning<br>Python · Machine Learning · Deep Learning · SQL (Advanced) · PyTorch · HuggingFace Transformers · Flask — basically stacking skills like a data scientist RPG character <br><br>Ask me about<br>Data Science fundamentals, Python, SQL, EDA, or how to start building real-world DS projects as a student — I promise better explanations than 90% of Medium articles <br><br>Fun fact<br>On a mission: Master Data Science ➔ Build Intelligent Models ➔ Create Products that actually solve problems.<br>Currently at Checkpoint 1 — grinding till the finish line.<br><br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@ I'm currently working on<br>Building end-to-end Data Science projects — from E
 ![](https://streak-stats.demolab.com/?user=Aysha2807&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aysha2807&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Aysha2807&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
